@@ -1,5 +1,6 @@
 # HELM CHARTS
 
+![alt text](<images/image copy 2.png>)
 
 ## What is Helm?
 Helm is a **package manager for Kubernetes** that helps you define, install, upgrade, rollback, and manage Kubernetes applications easily.
@@ -17,7 +18,7 @@ It works similar to:
 > A Helm chart is a reusable package that contains Kubernetes templates and configuration values used to deploy and manage applications in Kubernetes.
 
 ---
-
+![alt text](<images/image copy 3.png>)
 ## Detailed Explanation
 
 A **Helm chart** is a directory (package) that bundles everything required to run an application on Kubernetes, including:
